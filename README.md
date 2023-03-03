@@ -31,7 +31,7 @@ or
 It transcribes audio files with the mp3/mp4 format (any format that supports chatgpt) into English. It uses speech recognition technology to convert the audio into text. The transcribed text is saved to a file under the directory name **transcriptions**.
 
 ### Language Translation
-It can translate the transcribed text into a specified language. The user can choose the language to be translated from a list of available languages. The application uses a translation engine to translate the text, and the translated text is saved to a file under the directory named **translations**.
+It can translate the transcribed text into a specified language. The user can choose the language to be translated from a list of available languages. The application uses a ChatGPT to translate the text, and the translated text is saved to a file under the directory named **translations**.
 
 ### User-Friendly
 The user simply needs to specify the language in which they want the text translated when prompted. The application will take care of the rest. For example, if the user specifies "French" as the target language, the application will translate the text into French and save the file under the "translations" directory.
