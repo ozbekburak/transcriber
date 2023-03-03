@@ -71,8 +71,6 @@ func startTranslation(text string) error {
 
 	prompt += translationLang + ":\n" + text
 
-	fmt.Println("prompt:", prompt)
-
 	answers, err := chatgpt.AskChatGPT(prompt)
 	if err != nil {
 		log.Printf("Failed to translate the transcribed text error: %v", err)
