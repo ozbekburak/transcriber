@@ -1,0 +1,19 @@
+Bonjour, bon après-midi et bonne soirée. Je m'appelle Craig Guyman et je travaille pour Binalyze. Aujourd'hui, je vais vous montrer quelques façons
+de déployer l'agent Windows à partir de la console Binalyze Air. J'aimerais vous illustrer que les méthodologies pour déployer l'agent sont à la
+fois rapides et très flexibles. Pour ce faire, vous devez avoir déjà créé une organisation. Pour ce faire, vous cliquez simplement sur le
+bâtiment en haut de la fenêtre, choisissez nouvelle organisation, donnez-lui un nom, remplissez les informations ici en laissant le lien de page de
+déploiement partageable activé. Une fois cela créé, vous aurez une organisation vers laquelle vous pourrez commencer à déployer des agents. Pour
+ce faire, cliquez sur la section des points d'extrémité de la console Air. Dans cette fenêtre, je vous invite à sélectionner l'option "ajouter
+nouveau" en haut à droite de l'écran et à appuyer sur "déployer nouveau". À ce stade, vous avez différentes façons de déployer l'agent. Ce qui
+est important à reconnaître, c'est que selon votre situation, l'une de ces options peut être meilleure que les autres. Si, toutefois, vous voulez
+le rendre aussi simple que possible, je vous recommande vivement d'utiliser le lien de déploiement partageable que j'ai signalé dans la section
+organisation de cette vidéo. Si vous êtes intéressé par l'exécution de cette opération via une commande PowerShell, je vais vous montrer comment
+faire en utilisant une fenêtre de bureau à distance que j'ai ouverte sur mon deuxième écran. À partir de votre point de terminaison sur lequel
+vous allez déployer ceci, vous avez la possibilité d'ouvrir ce lien partageable. Et à partir de là, vous pouvez simplement télécharger le MSI,
+à ce moment-là, il sera téléchargé et vous pourrez l'installer normalement. Ou vous pouvez copier la commande PowerShell et l'ouvrir dans une
+fenêtre PowerShell. Lorsque vous le faites, cela ressemblera beaucoup à cela. Et lorsque vous le faites, il exécutera cette commande et
+l'installera en quelques secondes. Une fois que cela est fait, cela apparaîtra dans votre console de bureau en quelques secondes. À ce stade, je
+suis en mesure de commencer à effectuer des acquisitions, des enquêtes sur les indicateurs de compromission, la remédiation grâce à Interact, la
+construction de chronologies et l'utilisation de notre fonction de comparaison brevetée. Cela conclut notre vidéo sur la façon de déployer un
+agent sur des points de terminaison Windows. Si vous avez des questions, n'hésitez pas à me contacter ou à contacter mes collègues. Si cette
+vidéo vous a été utile aujourd'hui, faites-le nous savoir. Ou si vous avez des questions, faites-le nous savoir aussi. Merci et bonne journée.

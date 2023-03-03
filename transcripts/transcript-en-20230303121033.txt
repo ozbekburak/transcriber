@@ -1,0 +1,20 @@
+Good morning, good afternoon, and good evening. My name is Craig Guyman, and I work for Binalyze. Today I'm going to show you a couple of ways to
+deploy the Windows agent from the Binalyze Air console. I'd like to illustrate that the methodologies for deploying the agent are both fast and very
+flexible. In order to do this, you should have already created an organization. In order to do that, you simply click on the building in the top of
+the window, choose new organization and give it a name, fill out the information here, leaving the shareable deployment page link toggled on. Once
+that's created, you'll have an organization that you can then start deploying agents to. In order to do that, click on the end point section of the
+Air console. From this window, what I'd like you to do is go to the add new option in the top right corner of the screen and press deploy new. From
+here, you'll have the ability to select the organization that you just created, and you'll click on next step. We'll focus on Windows for now. In
+future videos, we'll do a Mac OS deployment. At this stage, you have a variety of different ways to deploy the agent. What's important to recognize is
+that depending on your circumstance, one of these options may be better than the others. If, however, you want to make it as easy as possible, I
+highly suggest using the shareable deployment link I pointed out in the organization section of this video. However, if you are interested in
+performing this through a PowerShell command, what I'd like to do is be able to show you how to do that using a remote desktop window that I've got
+open on my secondary screen. From your end point that you're going to deploy this on, you have the ability to open up that shareable link. And from
+here, you could simply download the MSI, at which point that will download and you can install normally. Or you could copy the PowerShell command and
+you could open it up in a PowerShell window. When you do that, it will look a lot like this. Right here. And when you do that, it will then run that
+command and it will install that and take just a few seconds to do that. Once that's done, it will show up in your desktop console in just a few
+seconds. So if we move this out of the way, I have the ability to go back to my end points page and show that my game rig, in this case, Craig's game
+rig, has in fact been added as an agent in my console window. At this stage, I'm able to then start performing acquisitions, IOC triage, remediation
+through interact, building timelines and using our patent pending compare feature. That concludes our video on how to deploy an agent onto Windows end
+points. If you have any questions, feel free to reach out to me or my colleagues. If this video has been helpful for you today, please let us know. Or
+if you have any questions, please let us know that as well. Thank you and have a great day.
