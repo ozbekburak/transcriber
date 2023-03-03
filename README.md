@@ -21,7 +21,7 @@ or
     ./transcriber
 ```
 
-# Screenshots
+## Screenshots
 ![execution](https://github.com/ozbekburak/transcriber/blob/main/img/execution.png?raw=true)
 ![files](https://github.com/ozbekburak/transcriber/blob/main/img/transcript-translation.png?raw=true)
 
