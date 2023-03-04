@@ -23,7 +23,7 @@ or
 
 ## Screenshots
 ![execution](https://github.com/ozbekburak/transcriber/blob/main/img/execution.png?raw=true)
-![files](https://github.com/ozbekburak/transcriber/blob/main/img/transcript-translation.png?raw=true)
+![files](https://github.com/ozbekburak/transcriber/blob/main/img/translation.png?raw=true)
 
 ## Features
 
